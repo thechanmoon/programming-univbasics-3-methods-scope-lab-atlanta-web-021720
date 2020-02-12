@@ -6,3 +6,7 @@ end
 def toadstool
   puts status
 end
+
+def any_phrase(phrase)
+  puts phrase
+end
