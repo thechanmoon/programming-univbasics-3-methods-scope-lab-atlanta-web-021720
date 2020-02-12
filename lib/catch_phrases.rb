@@ -10,6 +10,10 @@ def toadstool
   puts status
 end
 
-def link(phrase)
+def link()
+  puts phrase
+end
+
+def any_phrase(phrase)
   puts phrase
 end
